@@ -2,9 +2,7 @@
 
 dwaf (dredteam WAF) is a modern HTTP Web Application Firewall that acts as a reverse proxy; dwaf is written in Go.
 
-dwaf promotes the use of whitelisting instead of blacklisting, so it only has the "implicit deny" mode, although it is easy to allow more then necessary to pass through.
-
-**dwaf is not ready for use yet and is still in active development phase.**
+❗**dwaf is not ready for use yet and is still in active development phase.**
 
 ## Features (planned)
 
